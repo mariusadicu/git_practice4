@@ -6,7 +6,6 @@ public class TestCase003 {
 
     // code finished in feature branch
 
-
-    // this is changes from local IntelliJ
+    // change from GitHub.com
 
 }
